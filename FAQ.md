@@ -1,5 +1,16 @@
 # ❓ Technical FAQ
 
+### Why can't an AI simply generate the chaotic filter pattern itself?
+AI generates images based on data it has already seen. However, a TruthHorizon filter is a **physical 3D object** with depth and microscopic chaos that cannot be replicated for two reasons:
+
+1. **Closed-Loop Capture:** The verification ONLY works if the media is captured directly through the **TruthHorizon App**. The app controls the camera sensor and verifies in real-time that the light is hitting the physical filter. You cannot "upload" a file from your phone's gallery; the app acts as a sealed "Black Box" that signs the data the moment it’s born.
+2. **3D Physical Uniqueness:** Each filter has random particle distribution (bubbles, fibers). An AI can try to "mimic" a filter texture, but it cannot predict the exact 3D refraction of *your* specific lens. Since your lens fingerprint is registered on the blockchain *before* you start filming, an AI would need to travel back in time to fake a matching video.
+
+### How do you handle the Blockchain connection?
+I see the blockchain as a very practical tool—a **public notary**.
+
+The process is simple: the app captures the stream directly from the camera, verifies the lens, and calculates the **Hash Code** (digital fingerprint). We only store this hash on the blockchain. We use it because it is a database that no one can modify or delete. It’s like writing the fingerprint of the video in wet cement: once it’s dry, nobody can claim the video was a fake created later by an AI.
+
 ### Can’t an AI just learn to fake the lens pattern?
 AI excels at replicating patterns it has been trained on. Because each TruthHorizon lens is physically unique—created by chaotic, non-linear processes like resin bubbles or fiber distribution—an attacker would need the "training set" of *your specific lens* to fake it. Replicating the 3D refraction of light through random physical matter is a physical barrier that software alone cannot bridge.
 
